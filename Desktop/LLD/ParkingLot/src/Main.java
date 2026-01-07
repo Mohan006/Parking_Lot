@@ -59,9 +59,6 @@ public class Main {
         parkingLot.vehicleRelease(t1, new CardPayment());
         parkingLot.vehicleRelease(t2,new CashPayment());
 
-
-
-
     }
 
 }
